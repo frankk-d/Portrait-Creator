@@ -32,7 +32,7 @@ t.screen.bgcolor("#2664EA");        #background colour is a nice shade of blue
 
 turtle.setup(900, 900)      #makes the diameters of the screen 900 by 900
 t.speed(0);                 #makes the speed of the turtle 0
-t.up();                     #lifts turtle
+t.up();                     #lifts turtle up
 
 
 def tri(x, y, x2, y2, x3, y3, color):       #DECLARE 'tri' function with x, y, x2, y2, x3, y3, color required arguments

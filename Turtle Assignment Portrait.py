@@ -20,6 +20,9 @@ Process:
 List of Identifiers:
     t is equal to turtle.Turtle();
 ====================================
+
+Program written with Python as a Grade 10 project.
+
 Hope you enjoy the program!
 
 '''
